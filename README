@@ -1,0 +1,1 @@
+A docker container with Elixir, cypress and postgres set up to easily allow you to run your E2E tests as a Github action
