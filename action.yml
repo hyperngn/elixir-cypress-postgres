@@ -6,4 +6,4 @@ branding:
 author: 'Khaja Minhajuddin'
 runs:
   using: 'docker'
-  image: 'docker://hyperngn/elixir-cypress-postgres:latest'
+  image: 'docker://hyperngn/elixir-cypress-postgres:0.1.0'
