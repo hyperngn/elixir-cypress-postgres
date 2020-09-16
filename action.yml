@@ -1,0 +1,6 @@
+name: 'elixir-cypress-postgres'
+description: 'Runs cypress end to end tests for your Phoenix apps'
+author: 'Khaja Minhajuddin'
+runs:
+  using: 'docker'
+  image: 'docker://hyperngn/elixir-cypress-postgres:latest'
